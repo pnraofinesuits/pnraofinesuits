@@ -1,5 +1,6 @@
 ### Hi there 👋
-Elegant Formal Wear for Men: Perfect Attire for Wedding Celebrations
+<h1>Elegant Formal Wear for Men: Perfect Attire for Wedding Celebrations</h1>
+
 <!--
 **pnraofinesuits/pnraofinesuits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
