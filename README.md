@@ -5,6 +5,11 @@
   <h2>Section 1: Suits</h2>
   <p>A well-fitted suit is the cornerstone of any formal ensemble. Our collection features a variety of suits in different styles, colors, and fabrics to suit every taste and preference. From classic black and navy suits to more modern shades like charcoal and grey, we have options to complement any wedding theme.</p>
 </li>
+[Uploading Banner-4.webp…]()
+<li>
+  <h2>Section 2: Tuxedos</h2>
+  <p>For a truly luxurious look, consider a tuxedo from our collection. Available in traditional black or navy as well as contemporary colors like midnight blue and charcoal, our tuxedos are crafted from high-quality fabrics and tailored to perfection. Complete your ensemble with a crisp dress shirt, bow tie, and cufflinks for a polished finish.</p>
+</li>
 
 
 - 🔭 I’m currently working on ...
